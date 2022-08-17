@@ -20,10 +20,10 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a J
 <a href="https://sourcerer.io/efat56">Check more about me here 🌟 </a>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/efat56/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/efat-husneara-b224a2233/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="efat-husneara-b224a2233" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/#" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/efatbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="#" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/husneara_ifat_x25" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="husneara_ifat_x25" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
 
