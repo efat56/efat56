@@ -1,7 +1,8 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Efat Husneara</h1>
 <h3 align="center">A passionate Backend developer from India</h3> 
-<img align = "right" width="250" src="coffee.webp">
+
+<img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
 
 <!-- profile view -->
 
