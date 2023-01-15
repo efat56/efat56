@@ -68,7 +68,7 @@
 | <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=efat56&show_icons=true&theme=cobalt" alt="Efat's Language stats" /> | 
 <a href="https://github.com/efat56"><img alt="efat56 Activity Graph" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=efat56&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="255px" width="50%" /></a> -->
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efat56&theme=radical&langs_count=8" alt="efat" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremKumarAK47&theme=radical&langs_count=8" alt="efat" height="260px" width="25%" />
 <!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=PremKumarAK47&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/> -->
 <a href="https://github.com/efat56"><img alt="efat56 Activity Graph" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=efat56&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="255px" width="70%" /></a>
 	
