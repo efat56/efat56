@@ -64,13 +64,22 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 
-| Top Languages | Contribution Graph  |
-| :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=efat56&show_icons=true&theme=cobalt" alt="Efat's Language stats" /> | [![Efat's github activity graph](https://activity-graph.herokuapp.com/graph?username=efat56&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/04psm/github-readme-activity-graph) |
+<!-- | Top Languages 
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=efat56&show_icons=true&theme=cobalt" alt="Efat's Language stats" /> | 
+<a href="https://github.com/efat56"><img alt="efat56 Activity Graph" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=efat56&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="255px" width="50%" /></a> -->
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efat56&theme=radical&langs_count=8" alt="efat" height="260px" width="25%" />
+<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=PremKumarAK47&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/> -->
+<a href="https://github.com/efat56"><img alt="efat56 Activity Graph" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=efat56&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" height="255px" width="70%" /></a>
+	
+<div>
+
+
+
 
 <div aling="left">
   
-<h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+<h2>&nbsp; Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '40px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
