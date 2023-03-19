@@ -61,9 +61,6 @@
 
 
 
-
-
-
    <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
 
   | Github Stats | Current Strek  |
