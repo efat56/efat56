@@ -24,7 +24,6 @@
 
 
 
-
 <!-- Resume -->
 -  <img width="20" src = "https://drive.google.com/file/d/1titdkOrQOWuR9kb0bypC7m67zSFgPQLn/view?usp=sharing" > Checkout my [Resume](https://drive.google.com/file/d/14xipLwkmopC9Ta0Rk_ZZwT4Qz22KESXC/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
