@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'> I'm Efat Husneara</h1>
-<h3 align="center">A passionate Backend developer from India</h3> 
-<h4 align="center">I'm a Full Stack Web Developer skilled in Java stack who focuses on writing clean, elegant and efficient code.</h4>
+<h3 align="center">A passionate Java Backend Developer from India</h3> 
+<h4 align="center">I'm a Java Backend Developer who focuses on writing Clean, Elegant and Efficient code.</h4>
 <img align="right" style="height: 200px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="">
 
 <!-- profile view -->
@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 🌱 I’m currently learning **Java, Spring Boot and Database as MySql** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 <!-- Portfolio -->
 - 👨‍💻 Checkout my [Portfolio](https://efat56.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
@@ -32,7 +32,7 @@
 
 
 
-- 💬 Ask me about **Mysql, spring boot**&nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 💬 Ask me about **Java, Mysql, Spring Boot and DSA**&nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📫 How to reach me **efathusneara80@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
